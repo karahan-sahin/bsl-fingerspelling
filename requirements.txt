@@ -1,0 +1,9 @@
+lmdb
+numpy
+matplotlib
+# mesh viz (use conda env base-v1):
+signlangtk   # imported as sltk; provides the SMPLFX body model
+pyrender
+trimesh
+torch
+opencv-python
